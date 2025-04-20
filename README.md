@@ -1,4 +1,5 @@
 # Capo Corale
+* Versione 1.109: fix minori
 * Versione 1.101: fix esportazione
 * Versione 1.0: versione iniziale
 
